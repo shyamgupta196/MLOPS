@@ -1,3 +1,4 @@
 /calculator
 /.circleci
 /__pycache__
+.gitignore
